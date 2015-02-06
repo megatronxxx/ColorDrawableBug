@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ColorDrawableBug</string>
+
+    <string name="click_me_1">Go to activity 2</string>
+    <string name="click_me_2">Click me</string>
+</resources>
